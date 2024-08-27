@@ -1,0 +1,35 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+    .memePoster{
+        height: 200px;
+        width: 300px;
+        margin-left: 400px;
+        margin-top: 50px;   
+        border-style: solid;
+        border-color: white;
+    }
+  
+    body{
+      background-color: black;
+    }
+    h1{
+        color: white;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        margin-left: 340px;
+        margin-top: 30px;
+    }
+    p{
+        color: white;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        margin-left: 415px;
+        margin-top: 30px;
+        font-size: 10px;
+
+    }
